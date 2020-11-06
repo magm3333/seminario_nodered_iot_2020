@@ -1,0 +1,12 @@
+{
+    "name": "seminario_nodered_iot_2020",
+    "description": "Proyecto seminario docker y node-red 2020",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
